@@ -28,3 +28,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Rows are doubled-up
 #define MATRIX_ROWS 12
 #define MATRIX_COLS 6
+#define VIAL_KEY_OVERRIDE_ENTRIES 4
